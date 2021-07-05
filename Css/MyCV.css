@@ -774,6 +774,9 @@
     }
     
     @media (min-width: 1200px) {
+        .logo-left {
+            height: 300px;
+        }
         .navbar {
             margin-top: 297px;
         }
@@ -787,9 +790,9 @@
             width: 48%;
         }
         .imgcrile {
-            width: 130px;
-            height: 130px;
-            margin-left: 25%;
+            width: 150px;
+            height: 150px;
+            margin-left: 21%;
             /* background-image: url(/Img/118806951_2799144087030457_1866963405411381091_o.jpg); */
         }
     }
