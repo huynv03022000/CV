@@ -572,6 +572,15 @@
         .head-right-nav {
             display: none;
         }
+        .head-left {
+            width: 30%;
+        }
+        .even {
+            height: auto;
+        }
+        .odd {
+            height: auto;
+        }
     }
     
     @media (max-width: 768px) {
@@ -601,6 +610,7 @@
             text-align: center;
         }
         .imgcrile {
+            margin-left: 0px;
             text-align: center;
             width: 100%;
         }
@@ -792,7 +802,7 @@
         .imgcrile {
             width: 150px;
             height: 150px;
-            margin-left: 21%;
+            margin-left: 25%;
             /* background-image: url(/Img/118806951_2799144087030457_1866963405411381091_o.jpg); */
         }
     }
@@ -802,6 +812,15 @@
     }
     
     @media (min-width: 1600px) {
+        .imgcrile {
+            width: 150px;
+            height: 150px;
+            margin-left: 30%;
+            /* background-image: url(/Img/118806951_2799144087030457_1866963405411381091_o.jpg); */
+        }
+        .logo-left {
+            height: 350px;
+        }
         .end {
             height: 935px;
             background-repeat: no-repeat;
