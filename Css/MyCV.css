@@ -798,7 +798,7 @@
         height: 350px;
     }
     
-    @media (min-width: 1400px) {
+    @media (min-width: 1600px) {
         .end {
             height: 935px;
             background-repeat: no-repeat;
